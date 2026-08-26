@@ -10,11 +10,10 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=manikantavarma2889&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15 )
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=manikantavarma2889&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
-[![trophy]([https://github-profile-trophy-max.vercel.app/?username=manikantavarma2889&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)](https://trophygithubreadmelang.cybee.dpdns.org/?username=manikantavarma2889&theme=light)
-
+![](https://github-contributor-stats.vercel.app/api?username=manikantavarma2889&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=manikantavarma2889&icon=0&color=0)](https://visitcount.itsvg.in)
