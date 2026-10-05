@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on **my next big idea**<br>🤝 I’m looking to collaborate with **people who love building things**<br>🫱 I’m looking for help with **turning “what if?” into “it works!”**<br>🌱 I’m currently learning **something new every day**<br>💬 Ask me about **code, projects, tech & random ideas**<br>⚡ Fun fact: **A bug at 2 AM somehow feels like a personal challenge**<br>
+👨‍💻 I’m a **Software Engineer & Full-Stack Developer** building real-world applications<br>
+🚀 I’m currently working on **full-stack projects and backend systems**<br>
+🌱 I’m currently learning **C#, .NET, and modern backend development**<br>
+💻 I work with **Java, Spring Boot, React, TypeScript, Node.js & PostgreSQL**<br>
+🤝 I’m looking to collaborate on **open-source projects and interesting software ideas**<br>
+🔍 I’m interested in **backend engineering, scalable APIs, cloud & system design**<br>
+⚡ Fun fact: **I enjoy turning ideas into working software — and debugging everything along the way**
 
 
 # 💻 Tech Stack:
