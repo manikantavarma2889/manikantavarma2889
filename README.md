@@ -5,7 +5,6 @@
 💻 I work with **Java, Spring Boot, React, TypeScript, Node.js & PostgreSQL**<br>
 🤝 I’m looking to collaborate on **open-source projects and interesting software ideas**<br>
 🔍 I’m interested in **backend engineering, scalable APIs, cloud & system design**<br>
-⚡ Fun fact: **I enjoy turning ideas into working software — and debugging everything along the way**
 
 
 # 💻 Tech Stack:
