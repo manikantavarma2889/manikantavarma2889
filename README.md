@@ -2,7 +2,7 @@
 👨‍💻 I’m a **Software Engineer & Full-Stack Developer** building real-world applications<br>
 🚀 I’m currently working on **full-stack projects and backend systems**<br>
 🌱 I’m currently learning **C#, .NET, and modern backend development**<br>
-💻 I work with **Java, Spring Boot, React, TypeScript, Node.js & PostgreSQL**<br>
+💻 I work with **Java, Spring Boot, React, Express.js, TypeScript, Node.js, Mongodb, PostgreSQL, LangChain & OpenAI LLM APIs**<br>
 🤝 I’m looking to collaborate on **open-source projects and interesting software ideas**<br>
 🔍 I’m interested in **backend engineering, scalable APIs, cloud & system design**<br>
 
